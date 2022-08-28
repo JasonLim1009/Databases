@@ -1,0 +1,37 @@
+//336
+> show dbs
+> use fruitsDB
+> db.dropDatabase()
+> show dbs
+> show dbs
+> use fruitDB
+> show collections
+> db.fruits.find()
+> show collections
+> db.people.find()
+> db.fruits.find()
+
+//337
+> db.fruits.find()
+
+//338
+> db.fruits.find()
+> show collections
+
+//339
+> db.people.find()
+> db.people.find()
+
+//340
+> db.people.find()
+> db.fruits.find()
+
+
+
+
+
+
+
+
+
+
